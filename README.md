@@ -21,7 +21,6 @@ Esta é uma landing page de uma agência fictícia criada para demonstrar habili
 
 1. Clone este repositório para o seu ambiente local.
 2. Abra o arquivo `index.html` em seu navegador da web.
-3. Explore os projetos da agência e saiba mais sobre quem somos.
 
 ## Autor
 
