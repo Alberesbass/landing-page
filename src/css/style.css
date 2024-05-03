@@ -4,7 +4,7 @@ body {
     font-family: 'Public Sans', sans-serif;
 }
 
-/* LOGO */
+/* --LOGO-- */
 
 .logo .imagem{
     width: 100px;
@@ -14,7 +14,6 @@ body {
     display: flex;
     align-items: center;
     text-transform: uppercase;
-    /* background-color: aqua; */
 }
 
 .logo .titulo{
@@ -30,12 +29,11 @@ body {
 
 /* LOGO */
 
-/* cabeçalho */
+/* --cabeçalho-- */
 
 .cabecalho{
     display: flex;
     justify-content: space-between;
-    /* background-color: deeppink; */
     align-items: center;
     padding: 25px 0;
     max-width: 1170px;
@@ -58,12 +56,13 @@ body {
 
 .cabecalho .navegacao .menu .item a:hover{
     background-color: #1ED760;
+    border-radius: 12px;
     color: white;
 }
 
 /* cabeçalho */
 
-/* painel */
+/* --painel-- */
 
 .conteudo-principal .paineis{
     display: flex;
@@ -132,7 +131,7 @@ body {
 
 /* painel */
 
-/* Quem somos */
+/* --Quem somos-- */
 
 .quem-somos{
     background-color: #2941AB;
@@ -167,7 +166,7 @@ body {
 
 /* Quem somos */
 
-/* Footer */
+/* --Footer-- */
 
 .rodape{
     padding: 80px 0 20px 0;
